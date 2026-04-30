@@ -13,4 +13,5 @@ Transforming complex data into production-ready AI systems. As a B.Tech Computer
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TilakCSE&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![AWS Data Engineering Badge](./aws-academy-data-engineering.png)](https://www.credly.com/badges/8b999653-2ecb-4622-8614-aba1aa4d790d/public_url)
+[![AWS Data Engineering Badge](./aws-academy-data-engineering.png)](https://www.credly.com/badges/8b999653-2ecb-4622-8614-aba1aa4d790d/public_url) [![AWS Machine Learning Badge](./aws-academy-machine-learning.png)](https://www.credly.com/badges/4a2f599b-1cbe-4172-907d-240844e9f5d9/public_url)
+
