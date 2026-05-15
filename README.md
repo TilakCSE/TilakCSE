@@ -1,5 +1,20 @@
 # 💫 About Me:
-Transforming complex data into production-ready AI systems. As a B.Tech Computer Science student, I combine my experience building scalable, full-stack software with a deep focus on Applied AI and Data Engineering. Whether I'm developing computer vision trackers or architecting the infrastructure for machine learning platforms, my goal is to build the pipelines that make AI actually work in the real world.
+Building intelligent digital experiences at the intersection of AI, software engineering, and immersive 3D systems. I'm a B.Tech Computer Science student passionate about creating production-ready applications that combine machine learning, scalable backend architecture, modern full-stack development, and spatial/3D design.
+
+My work ranges from training multi-modal ML models and engineering data pipelines to designing cinematic user interfaces, interactive 3D environments, and digital twin systems using tools like Unity, Blender, WebGL, and React Three Fiber. I enjoy blending technical depth with visual storytelling to create systems that are both powerful and immersive.
+
+Whether I’m developing AI inference engines, architecting backend systems, or building real-time 3D experiences, my focus is always on turning ambitious ideas into polished, deployable products.
+
+Currently Exploring:
+Multi-Modal AI Systems
+Applied Machine Learning
+Full-Stack Development
+3D Web Experiences & Spatial Computing
+Computer Vision
+Data Engineering & ETL Pipelines
+Unity & Blender Workflows
+Local LLM Inference
+Scalable Backend Architecture
 
 
 ## 🌐 Socials:
