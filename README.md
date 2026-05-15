@@ -6,15 +6,19 @@ My work ranges from training multi-modal ML models and engineering data pipeline
 Whether I’m developing AI inference engines, architecting backend systems, or building real-time 3D experiences, my focus is always on turning ambitious ideas into polished, deployable products.
 
 Currently Exploring:
-Multi-Modal AI Systems
-Applied Machine Learning
-Full-Stack Development
-3D Web Experiences & Spatial Computing
-Computer Vision
-Data Engineering & ETL Pipelines
-Unity & Blender Workflows
-Local LLM Inference
-Scalable Backend Architecture
+
+-Multi-Modal AI Systems
+
+-Applied Machine Learning
+
+-3D Web Experiences & Spatial Computing
+
+-Computer Vision
+
+-Data Engineering & ETL Pipelines
+
+-Local LLM Inference
+
 
 
 ## 🌐 Socials:
