@@ -1,23 +1,7 @@
 # 💫 About Me:
-Building intelligent digital experiences at the intersection of AI, software engineering, and immersive 3D systems. I'm a B.Tech Computer Science student passionate about creating production-ready applications that combine machine learning, scalable backend architecture, modern full-stack development, and spatial/3D design.
+B.Tech Computer Science student passionate about building production-ready AI systems, immersive 3D experiences, and scalable full-stack applications. My work combines machine learning, backend engineering, computer vision, and spatial design using technologies like PyTorch, FastAPI, Next.js, Unity, Blender, and React Three Fiber.
 
-My work ranges from training multi-modal ML models and engineering data pipelines to designing cinematic user interfaces, interactive 3D environments, and digital twin systems using tools like Unity, Blender, WebGL, and React Three Fiber. I enjoy blending technical depth with visual storytelling to create systems that are both powerful and immersive.
-
-Whether I’m developing AI inference engines, architecting backend systems, or building real-time 3D experiences, my focus is always on turning ambitious ideas into polished, deployable products.
-
-Currently Exploring:
-
--Multi-Modal AI Systems
-
--Applied Machine Learning
-
--3D Web Experiences & Spatial Computing
-
--Computer Vision
-
--Data Engineering & ETL Pipelines
-
--Local LLM Inference
+I enjoy turning ambitious ideas into polished, real-world products that blend intelligent systems with cinematic user experiences.
 
 
 
